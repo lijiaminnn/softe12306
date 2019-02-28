@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ticket">
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Activity.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity.BookingActivity" />
+        <activity android:name=".Activity.ChooseStationActivity" />
+        <activity android:name=".Activity.QueryResultActivity" />
+        <activity android:name=".Activity.LoginActivity" />
+        <activity android:name=".Activity.RegisterActivity" />
+        <activity android:name=".Activity.MoreActivity" />
+        <activity android:name=".Activity.ConfirmOrdersActivity" />
+        <activity android:name=".Activity.OrderManageActivity" />
+        <activity android:name=".Activity.ConfirmPayActivity" />
+        <activity android:name=".Activity.FinishedOrderListActivity" />
+        <activity android:name=".Activity.CancelOrderActivity" />
+        <activity android:name=".Activity.ChangeorderqueryActivity" />
+        <activity android:name=".Activity.ConfirmChangeActivity" />
+        <activity android:name=".Activity.MoreBottomActivity" />
+        <activity android:name=".Activity.TicketActivity" />
+        <activity android:name=".Activity.PersonalInfoActivity" />
+        <activity android:name=".Activity.updatePassActivity" />
+        <activity android:name=".Activity.ChangeOrderActivity" />
+        <activity android:name=".Activity.FinishedPayActivity"></activity>
+    </application>
+
+</manifest>

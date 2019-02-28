@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <!--热门城市下面的各城市按钮背景格式-->
+
+    <Button
+        android:id="@+id/tv_city"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:background="@android:color/white"
+        android:paddingLeft="10dp"
+        android:layout_margin="5dp"
+        android:paddingRight="10dp"
+        android:textColor="#979797"/>
+
+</LinearLayout>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#f0f0f0">
+
+    <!--主要城市列表格式xml-->
+
+    <!--主要城市下面的方格A B C...id=tv_catagory-->
+    <TextView
+        android:id="@+id/tv_catagory"
+        android:layout_width="38dp"
+        android:layout_height="38dp"
+        android:text="A"
+        android:gravity="center"
+        android:textColor="#7e7b80"
+        android:background="@drawable/edittext_background"
+        android:textSize="18sp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="4dp"
+        android:layout_marginRight="24dp"/>
+
+
+    <!--各主要城市 id=tv_city_name-->
+    <TextView
+        android:id="@+id/tv_city_name"
+        android:layout_width="match_parent"
+        android:layout_height="43dp"
+        android:text="衢州"
+        android:gravity="center_vertical"
+        android:textSize="16sp"
+        android:layout_marginLeft="16dp"
+        android:textColor="#7e7b80"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#7e7b80"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="24dp"/>
+
+
+</LinearLayout>

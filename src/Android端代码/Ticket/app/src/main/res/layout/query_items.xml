@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/relative">
+
+    <TextView
+        android:id="@+id/TrainCode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="G7372"
+        android:focusable="false"
+        android:textColor="#000000"
+        android:textSize="28sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="始"
+        android:textSize="20sp"
+        android:background="#FF7F00"
+        android:textColor="#FFFFFF"
+        android:focusable="false"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/TrainCode"
+        android:layout_toEndOf="@+id/TrainCode"
+        android:id="@+id/textView" />
+
+    <TextView
+        android:id="@+id/FirstStation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:focusable="false"
+        android:text="衢州"
+        android:textSize="20sp"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/textView"
+        android:layout_toEndOf="@+id/textView" />
+
+    <TextView
+        android:id="@+id/StartTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:focusable="false"
+        android:text="06:47"
+        android:textColor="#38B0DE"
+        android:layout_below="@+id/textView"
+        android:layout_toRightOf="@+id/TrainCode"
+        android:layout_toEndOf="@+id/TrainCode" />
+
+    <TextView
+        android:id="@+id/UseTime"
+        android:focusable="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="01小时27分"
+        android:layout_below="@+id/imageView"
+        android:layout_alignLeft="@+id/imageView"
+        android:layout_alignStart="@+id/imageView"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp" />
+
+
+    <TextView
+        android:id="@+id/LastStation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:focusable="false"
+        android:text="杭州"
+        android:textSize="20sp"
+        android:layout_alignBaseline="@+id/textView3"
+        android:layout_alignBottom="@+id/textView3"
+        android:layout_toRightOf="@+id/textView3"
+        android:layout_toEndOf="@+id/textView3" />
+
+    <TextView
+        android:id="@+id/ArriveTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:focusable="false"
+        android:text="07:48"
+        android:textColor="#38B0DE"
+        android:layout_below="@+id/textView3"
+        android:layout_toRightOf="@+id/imageView"
+        android:layout_toEndOf="@+id/imageView" />
+
+    <ImageView
+        android:layout_width="35dp"
+        android:layout_height="30dp"
+        android:scaleType="fitXY"
+        android:background="#FFFFFF"
+        android:src="@drawable/image04"
+        android:focusable="false"
+        android:layout_alignBottom="@+id/TrainCode"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/imageButton" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:src="@drawable/image03"
+        android:layout_gravity="bottom"
+        android:focusable="false"
+        android:id="@+id/imageView"
+        android:layout_marginLeft="22dp"
+        android:layout_marginStart="22dp"
+        android:layout_alignTop="@+id/imageButton"
+        android:layout_toRightOf="@+id/FirstStation"
+        android:layout_toEndOf="@+id/FirstStation" />
+
+
+    <TextView
+        android:id="@+id/tv_date"
+        android:focusable="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2018-12-15"
+        android:layout_below="@+id/UseTime"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="过"
+        android:textSize="20sp"
+        android:background="#38B0DE"
+        android:textColor="#FFFFFF"
+        android:focusable="false"
+        android:id="@+id/textView3"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/imageView"
+        android:layout_toEndOf="@+id/imageView" />
+
+    <TextView
+        android:focusable="false"
+        android:id="@+id/tvPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="388.5"
+        android:layout_below="@+id/UseTime"
+        android:layout_toLeftOf="@+id/imageButton"
+        android:layout_toStartOf="@+id/imageButton" />
+
+    <TextView
+        android:id="@+id/leftTicket"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:focusable="false"
+        android:text="100"
+        android:layout_below="@+id/UseTime"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

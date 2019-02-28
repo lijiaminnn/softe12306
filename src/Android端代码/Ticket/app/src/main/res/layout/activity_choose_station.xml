@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_station"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#f0f0f0"
+    tools:context="com.example.ticket.Activity.ChooseStationActivity">
+    <!--搜索车站列表-->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#32b9a8">
+
+        <!--请选择城市  id=tv_title -->
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="请选择城市"
+            android:layout_centerInParent="true"
+            android:textSize="16dp"
+            android:textColor="@android:color/white"/>
+
+    </RelativeLayout>
+
+    <!--请输入城市编辑框 id=et_search -->
+    <EditText
+        android:id="@+id/et_search"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:singleLine="true"
+        android:hint="请输入城市"
+        android:paddingLeft="5dp"
+        android:textSize="15dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/edittext_background" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!--搜索下的城市列表 id=country_lvcountry -->
+        <ListView
+            android:id="@+id/country_lvcountry"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:divider="@null"
+            android:scrollbars="none">
+
+        </ListView>
+
+        <!--搜索城市的首字母属于哪个字母  id=dialog-->
+        <TextView
+            android:id="@+id/dialog"
+            android:layout_width="60dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:text="A"
+            android:background="#606060"
+            android:textSize="36sp"
+            android:textColor="@android:color/white"
+            android:gravity="center"
+            android:visibility="gone"
+            tools:visibility="visible"/>
+
+        <!--右边的SideBar id=sidrbar-->
+        <com.example.ticket.view.SideBar
+            android:id="@+id/sidrbar"
+            android:layout_width="24dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="right|center"/>
+
+    </FrameLayout>
+
+
+</RelativeLayout>

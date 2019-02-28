@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!--主要城市TextView A B ...之类的背景-->
+
+    <!--填充颜色-->
+    <solid
+        android:color="#F0F0F0"/>
+
+    <!--描边-->
+    <stroke
+        android:width="1dp"
+        android:color="#dedede"/>
+
+</shape>

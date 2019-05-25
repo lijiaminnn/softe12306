@@ -1,0 +1,298 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="包"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="包"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="TicketBuy"><param name="Local" value="namespace_ticket_buy.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Bean"><param name="Local" value="namespace_ticket_buy_1_1_bean.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="类"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="类列表"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="TicketBuy"><param name="Local" value="namespace_ticket_buy.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Bean"><param name="Local" value="namespace_ticket_buy_1_1_bean.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TicketBean"><param name="Local" value="class_ticket_buy_1_1_bean_1_1_ticket_bean.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="getAll"><param name="Local" value="class_ticket_buy_1_1_bean_1_1_ticket_bean.html#a181fe8bdfde0ce495494ec88dede3589"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="getResult"><param name="Local" value="class_ticket_buy_1_1_bean_1_1_ticket_bean.html#a3cc3b2a8c0261360db2b74874374ca38"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TicketBuyBean"><param name="Local" value="class_ticket_buy_1_1_bean_1_1_ticket_buy_bean.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="getAll"><param name="Local" value="class_ticket_buy_1_1_bean_1_1_ticket_buy_bean.html#a5b56d2551344a0e0eaa1fc3462aa7ec1"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="UserBean"><param name="Local" value="class_ticket_buy_1_1_bean_1_1_user_bean.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="add"><param name="Local" value="class_ticket_buy_1_1_bean_1_1_user_bean.html#af8a007664d0c2d27b05390a56957fb3c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="getAll"><param name="Local" value="class_ticket_buy_1_1_bean_1_1_user_bean.html#acbd8a806b4830a2c27cd200507ab38c4"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="select"><param name="Local" value="class_ticket_buy_1_1_bean_1_1_user_bean.html#a7994ecf105cc916ebe6183bdd1b909f7"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DBConn"><param name="Local" value="class_ticket_buy_1_1_d_b_conn.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getConnection"><param name="Local" value="class_ticket_buy_1_1_d_b_conn.html#a5aeb4b1351e2f7e16e234c907a0e2101"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TicketBuyInfo"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TicketBuyInfo"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#aa354215505b04b206d80e4f485cbbfba"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getArrivestation"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#ab4a04671af0865df279daa461f088ece"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getArrivetime"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#ad64806a6e0e2be0f0d02c4bc26fee5ac"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getDate"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a2a22807586255c729414076dc1ba441c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getId"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a19de45f018d1d17d91b9c2f88fd4eb7b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getIdcard"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a74bef0f6ae71c9ced81d032ae1a19b22"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getStartstation"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a629041d7250797e20ffb74c6ecac3267"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getStarttime"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#ad81360dfe2cbd7417188a23e5a9bc85d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getTicketprice"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a24118d36cbbbe9520fc2b6a5f7509cd8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getTraincode"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a5ae29b7f956b452bc7a2a4e8e837d610"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getUsername"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#adfb9ab888f5f8f81244ee0a4205fec83"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setArrivestation"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a6ab0b225f5c7070ce657dffacabda6df"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setArrivetime"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a2932cf6b62d7a4d857d46841826fc22d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setDate"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#ae5b5361a1b3571d36760b375dc2a96c7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setId"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#ac14d59f3be0a60199b1a659814adde38"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setIdcard"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a8f75cc3efcf6ee9611af421a4be24dc4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setStartstation"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#ac701c6c94591795f6ec033372e82a57e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setStarttime"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a639ba1698e6199ddddf4cf1acaf78672"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setTicketprice"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#af2269b7c8a43b2c10f055c904ae01f02"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setTraincode"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#af1ea8a09f2817e4a0f67ff638d6b7b11"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setUsername"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#ae30f1ad883168bf05e0049c2b537a275"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="arrivestation"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a08ef8a983e2809e4f8f9a5f678fd8294"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="arrivetime"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a2a24680c1928a02dda7a3b7f6f097ea7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Date"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#aca7ee4cc8e9e72b648a547ceca1fbd68"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="id"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#ac82b439a6cc2468df25b1a178a6eb53b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="idcard"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a2584dbd7729521ea610cfb4ba3c3d213"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="startstation"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a9603ad81621b60ed3b0d4290867a64cf"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="starttime"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a03c09bbe8e3a32a4eef53c25a7ed2608"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ticketprice"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a8bc2b549920acd0db3bd974febf7fdbb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="traincode"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a93139276da6eefe835a665dafba7f868"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="username"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#ac542289ce6ad79b26bf0d3aee8493b69"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TicketInfo"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TicketInfo"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a1903df93e40b7b8d6e735b4377ead0c4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TicketInfo"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a42f675253923f46bced5e385157ad460"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getArriveStation"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a89c5f17d5813181e69937d59fb139d3d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getArriveTime"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#ae971f8731c4c4abc014309d28b8e22b4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getDate"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#ac93795db066dd16c8da90b4f0bf12f4c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getStartStation"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#afa81476acccde8e550d6a2ad9f7f369e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getStartTime"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#ac8d607ee5d6dc7598168de03bc1b4b7f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getTicketNum"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a313ce6e6f7db6ac084a44a19dd376313"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getTicketPrice"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#ab38f117894410bcb18deeb6e2ffea290"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getTrainCode"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a3003542ac837bff4c6b04bae531ae368"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getUseTime"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a765ff654dcf97d612efb24253568d1dc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setArriveStation"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#aeb9d1e42a9968760af00656ec1aab635"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setArriveTime"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a78d599197c5f05c9a78fe1b80bdc0f52"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setDate"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#aae92e8fe9ab5e53a4149173a33482955"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setStartStation"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a8a45d91f7196e8165e7ed093104f95c3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setStartTime"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#afcad95d9a45f99cba92dbf2e9d5a3c98"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setTicketNum"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a3159a3da2461bfe0d1fa716ee3aa5ab0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setTicketPrice"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a620d759bc15aac0ca6ba8112cc90c81d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setTrainCode"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#ab0958a9b30a290373c15dd6e322519c6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setUseTime"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#aac97483d10130f0003866eaeeb8fe9c1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ArriveStation"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#ad7b2e4ed6e0a100354798818a2fbee7e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ArriveTime"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a04320d832694c68a77067b413eaa9e5a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="date"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a34e7e30173f86947d7311c0f63192777"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="StartStation"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a08b2bf84951457a49296244120f08854"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="StartTime"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a8710e9bb4fa3ae624d4a0a21a5f4ee0c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TicketNum"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a9476f5b0695cde5505b3d67b9339d5e7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TicketPrice"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a5b739d12a9b7e2147ce8d40cc477f330"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TrainCode"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a5ce6bda8b3c79b391e3419ace3a0e56b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="UseTime"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a53faf685f7a83bc92a7efb0b3af9d703"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="UserInfo"><param name="Local" value="class_ticket_buy_1_1_user_info.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="UserInfo"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a83145f0d41a2ee11f904a6af8e5ccbf2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="UserInfo"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a1f9acc0535a4e79e648b11d3c0ecfe7f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getEmail"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a7d0870995847ea956ac56d93ed7d639b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getIDCard"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a2abaa88b708b44033d984372030c609b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getPassword"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a80eb47cdca74457dbe1507f194872f91"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getRealname"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a421cb3684e7551172d9a575417959803"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getTelNumber"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a7454fd075a01f1bbe7a6c69510783c35"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="getUsername"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a26f692f7bb98c753572b85d78f7b7dc2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setEmail"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a37493ec82377f645f6212e5755862fd2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setIDCard"><param name="Local" value="class_ticket_buy_1_1_user_info.html#aa7766ca4d654cc4cb466f8c4f7290687"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setPassword"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a65825a59c82a84359b457868b89c5535"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setRealname"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a52bec8c66a5abb3513e642c67e414c03"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setTelNumber"><param name="Local" value="class_ticket_buy_1_1_user_info.html#ace9502ed8ee7232ee12e8f1b07c881bc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setUsername"><param name="Local" value="class_ticket_buy_1_1_user_info.html#afa04080c5e8169bf6fbfa51aa32bf2de"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="toString"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a0aa7e4688018ab24bfbd6997df1243b8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="email"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a7c08204ad10cf370a551b96dc47e21ef"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="IDCard"><param name="Local" value="class_ticket_buy_1_1_user_info.html#af8cd120136726317bcd6a546f28f3d48"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="password"><param name="Local" value="class_ticket_buy_1_1_user_info.html#abf63f4de69eea5537543b04fe20e1f81"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="realname"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a9b06a16e8607954e2fc878651a0def51"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="telNumber"><param name="Local" value="class_ticket_buy_1_1_user_info.html#aade1bf63dea7a83dc546295b27d76899"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="username"><param name="Local" value="class_ticket_buy_1_1_user_info.html#ae84ccd553d05578e28a194ab0c41cdd4"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="类索引"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="类成员"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="全部"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="函数"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="变量"><param name="Local" value="functions_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="文件"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="文件列表"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="eclipse端"><param name="Local" value="dir_3e71d5261fe2879fb07a634b24b1352c.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Ticket"><param name="Local" value="dir_1bd2dd9f84c8372eb9e797f48b907f91.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="src"><param name="Local" value="dir_145a55d4a253c3a48070f5e77d93ca0d.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="TicketBuy"><param name="Local" value="dir_dbf9abb4ff8ae1f1c4e9031fe6c7a9d2.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Bean"><param name="Local" value="dir_54b8e47b0c366eb2c7d32d7757a5e3bc.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="TicketBean.java"><param name="Local" value="_ticket_bean_8java.html"><param name="ImageNumber" value="11"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="TicketBean"><param name="Local" value="class_ticket_buy_1_1_bean_1_1_ticket_bean.html"><param name="ImageNumber" value="1"></OBJECT>
+                  <UL>
+                  <LI><OBJECT type="text/sitemap"><param name="Name" value="getAll"><param name="Local" value="class_ticket_buy_1_1_bean_1_1_ticket_bean.html#a181fe8bdfde0ce495494ec88dede3589"><param name="ImageNumber" value="11"></OBJECT>
+                  <LI><OBJECT type="text/sitemap"><param name="Name" value="getResult"><param name="Local" value="class_ticket_buy_1_1_bean_1_1_ticket_bean.html#a3cc3b2a8c0261360db2b74874374ca38"><param name="ImageNumber" value="11"></OBJECT>
+                  </UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="TicketBuyBean.java"><param name="Local" value="_ticket_buy_bean_8java.html"><param name="ImageNumber" value="11"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="TicketBuyBean"><param name="Local" value="class_ticket_buy_1_1_bean_1_1_ticket_buy_bean.html"><param name="ImageNumber" value="1"></OBJECT>
+                  <UL>
+                  <LI><OBJECT type="text/sitemap"><param name="Name" value="getAll"><param name="Local" value="class_ticket_buy_1_1_bean_1_1_ticket_buy_bean.html#a5b56d2551344a0e0eaa1fc3462aa7ec1"><param name="ImageNumber" value="11"></OBJECT>
+                  </UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="UserBean.java"><param name="Local" value="_user_bean_8java.html"><param name="ImageNumber" value="11"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="UserBean"><param name="Local" value="class_ticket_buy_1_1_bean_1_1_user_bean.html"><param name="ImageNumber" value="1"></OBJECT>
+                  <UL>
+                  <LI><OBJECT type="text/sitemap"><param name="Name" value="add"><param name="Local" value="class_ticket_buy_1_1_bean_1_1_user_bean.html#af8a007664d0c2d27b05390a56957fb3c"><param name="ImageNumber" value="11"></OBJECT>
+                  <LI><OBJECT type="text/sitemap"><param name="Name" value="getAll"><param name="Local" value="class_ticket_buy_1_1_bean_1_1_user_bean.html#acbd8a806b4830a2c27cd200507ab38c4"><param name="ImageNumber" value="11"></OBJECT>
+                  <LI><OBJECT type="text/sitemap"><param name="Name" value="select"><param name="Local" value="class_ticket_buy_1_1_bean_1_1_user_bean.html#a7994ecf105cc916ebe6183bdd1b909f7"><param name="ImageNumber" value="11"></OBJECT>
+                  </UL>
+                </UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="DBConn.java"><param name="Local" value="_d_b_conn_8java.html"><param name="ImageNumber" value="11"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="DBConn"><param name="Local" value="class_ticket_buy_1_1_d_b_conn.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getConnection"><param name="Local" value="class_ticket_buy_1_1_d_b_conn.html#a5aeb4b1351e2f7e16e234c907a0e2101"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="TicketBuyInfo.java"><param name="Local" value="_ticket_buy_info_8java.html"><param name="ImageNumber" value="11"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="TicketBuyInfo"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="TicketBuyInfo"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#aa354215505b04b206d80e4f485cbbfba"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getArrivestation"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#ab4a04671af0865df279daa461f088ece"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getArrivetime"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#ad64806a6e0e2be0f0d02c4bc26fee5ac"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getDate"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a2a22807586255c729414076dc1ba441c"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getId"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a19de45f018d1d17d91b9c2f88fd4eb7b"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getIdcard"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a74bef0f6ae71c9ced81d032ae1a19b22"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getStartstation"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a629041d7250797e20ffb74c6ecac3267"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getStarttime"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#ad81360dfe2cbd7417188a23e5a9bc85d"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getTicketprice"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a24118d36cbbbe9520fc2b6a5f7509cd8"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getTraincode"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a5ae29b7f956b452bc7a2a4e8e837d610"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getUsername"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#adfb9ab888f5f8f81244ee0a4205fec83"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setArrivestation"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a6ab0b225f5c7070ce657dffacabda6df"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setArrivetime"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a2932cf6b62d7a4d857d46841826fc22d"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setDate"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#ae5b5361a1b3571d36760b375dc2a96c7"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setId"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#ac14d59f3be0a60199b1a659814adde38"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setIdcard"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a8f75cc3efcf6ee9611af421a4be24dc4"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setStartstation"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#ac701c6c94591795f6ec033372e82a57e"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setStarttime"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a639ba1698e6199ddddf4cf1acaf78672"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setTicketprice"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#af2269b7c8a43b2c10f055c904ae01f02"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setTraincode"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#af1ea8a09f2817e4a0f67ff638d6b7b11"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setUsername"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#ae30f1ad883168bf05e0049c2b537a275"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="arrivestation"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a08ef8a983e2809e4f8f9a5f678fd8294"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="arrivetime"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a2a24680c1928a02dda7a3b7f6f097ea7"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="Date"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#aca7ee4cc8e9e72b648a547ceca1fbd68"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="id"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#ac82b439a6cc2468df25b1a178a6eb53b"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="idcard"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a2584dbd7729521ea610cfb4ba3c3d213"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="startstation"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a9603ad81621b60ed3b0d4290867a64cf"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="starttime"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a03c09bbe8e3a32a4eef53c25a7ed2608"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="ticketprice"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a8bc2b549920acd0db3bd974febf7fdbb"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="traincode"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#a93139276da6eefe835a665dafba7f868"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="username"><param name="Local" value="class_ticket_buy_1_1_ticket_buy_info.html#ac542289ce6ad79b26bf0d3aee8493b69"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="TicketInfo.java"><param name="Local" value="_ticket_info_8java.html"><param name="ImageNumber" value="11"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="TicketInfo"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="TicketInfo"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a1903df93e40b7b8d6e735b4377ead0c4"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="TicketInfo"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a42f675253923f46bced5e385157ad460"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getArriveStation"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a89c5f17d5813181e69937d59fb139d3d"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getArriveTime"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#ae971f8731c4c4abc014309d28b8e22b4"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getDate"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#ac93795db066dd16c8da90b4f0bf12f4c"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getStartStation"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#afa81476acccde8e550d6a2ad9f7f369e"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getStartTime"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#ac8d607ee5d6dc7598168de03bc1b4b7f"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getTicketNum"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a313ce6e6f7db6ac084a44a19dd376313"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getTicketPrice"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#ab38f117894410bcb18deeb6e2ffea290"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getTrainCode"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a3003542ac837bff4c6b04bae531ae368"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getUseTime"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a765ff654dcf97d612efb24253568d1dc"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setArriveStation"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#aeb9d1e42a9968760af00656ec1aab635"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setArriveTime"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a78d599197c5f05c9a78fe1b80bdc0f52"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setDate"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#aae92e8fe9ab5e53a4149173a33482955"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setStartStation"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a8a45d91f7196e8165e7ed093104f95c3"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setStartTime"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#afcad95d9a45f99cba92dbf2e9d5a3c98"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setTicketNum"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a3159a3da2461bfe0d1fa716ee3aa5ab0"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setTicketPrice"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a620d759bc15aac0ca6ba8112cc90c81d"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setTrainCode"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#ab0958a9b30a290373c15dd6e322519c6"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setUseTime"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#aac97483d10130f0003866eaeeb8fe9c1"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="ArriveStation"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#ad7b2e4ed6e0a100354798818a2fbee7e"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="ArriveTime"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a04320d832694c68a77067b413eaa9e5a"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="date"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a34e7e30173f86947d7311c0f63192777"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="StartStation"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a08b2bf84951457a49296244120f08854"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="StartTime"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a8710e9bb4fa3ae624d4a0a21a5f4ee0c"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="TicketNum"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a9476f5b0695cde5505b3d67b9339d5e7"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="TicketPrice"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a5b739d12a9b7e2147ce8d40cc477f330"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="TrainCode"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a5ce6bda8b3c79b391e3419ace3a0e56b"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="UseTime"><param name="Local" value="class_ticket_buy_1_1_ticket_info.html#a53faf685f7a83bc92a7efb0b3af9d703"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="UserInfo.java"><param name="Local" value="_user_info_8java.html"><param name="ImageNumber" value="11"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="UserInfo"><param name="Local" value="class_ticket_buy_1_1_user_info.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="UserInfo"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a83145f0d41a2ee11f904a6af8e5ccbf2"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="UserInfo"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a1f9acc0535a4e79e648b11d3c0ecfe7f"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getEmail"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a7d0870995847ea956ac56d93ed7d639b"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getIDCard"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a2abaa88b708b44033d984372030c609b"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getPassword"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a80eb47cdca74457dbe1507f194872f91"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getRealname"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a421cb3684e7551172d9a575417959803"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getTelNumber"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a7454fd075a01f1bbe7a6c69510783c35"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="getUsername"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a26f692f7bb98c753572b85d78f7b7dc2"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setEmail"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a37493ec82377f645f6212e5755862fd2"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setIDCard"><param name="Local" value="class_ticket_buy_1_1_user_info.html#aa7766ca4d654cc4cb466f8c4f7290687"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setPassword"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a65825a59c82a84359b457868b89c5535"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setRealname"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a52bec8c66a5abb3513e642c67e414c03"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setTelNumber"><param name="Local" value="class_ticket_buy_1_1_user_info.html#ace9502ed8ee7232ee12e8f1b07c881bc"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setUsername"><param name="Local" value="class_ticket_buy_1_1_user_info.html#afa04080c5e8169bf6fbfa51aa32bf2de"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="toString"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a0aa7e4688018ab24bfbd6997df1243b8"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="email"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a7c08204ad10cf370a551b96dc47e21ef"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="IDCard"><param name="Local" value="class_ticket_buy_1_1_user_info.html#af8cd120136726317bcd6a546f28f3d48"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="password"><param name="Local" value="class_ticket_buy_1_1_user_info.html#abf63f4de69eea5537543b04fe20e1f81"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="realname"><param name="Local" value="class_ticket_buy_1_1_user_info.html#a9b06a16e8607954e2fc878651a0def51"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="telNumber"><param name="Local" value="class_ticket_buy_1_1_user_info.html#aade1bf63dea7a83dc546295b27d76899"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="username"><param name="Local" value="class_ticket_buy_1_1_user_info.html#ae84ccd553d05578e28a194ab0c41cdd4"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              </UL>
+            </UL>
+          </UL>
+        </UL>
+      </UL>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>
